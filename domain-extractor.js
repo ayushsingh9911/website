@@ -48,4 +48,4 @@ SPH_DomainExtractor.prototype = {
     // End Chris Zarate's code
     return s;
   }
-} domain extract here
+}
