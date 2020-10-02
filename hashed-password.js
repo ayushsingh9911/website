@@ -72,5 +72,5 @@ SPH_HashedPassword.prototype = {
     rotate(result, nextExtra());
     return result.join('');
   }
-}
+} hash
 
